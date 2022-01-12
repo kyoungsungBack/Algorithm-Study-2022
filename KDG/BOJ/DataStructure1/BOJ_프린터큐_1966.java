@@ -5,6 +5,12 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+/**
+ * 프린터 큐
+ * 백준(BOJ) - 실3
+ * @author USER
+ *
+ */
 public class Main {
 	static int[] answer;
 	public static void main(String[] args) throws IOException {

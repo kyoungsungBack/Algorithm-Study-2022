@@ -3,6 +3,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
+/**
+ * 스택 수열
+ * 실3
+ * @author USER
+ *
+ */
 public class Main {
 	static StringBuilder answer = new StringBuilder();
 	public static void main(String[] args) throws IOException{

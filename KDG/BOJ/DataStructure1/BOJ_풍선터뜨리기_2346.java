@@ -5,6 +5,12 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+/**
+ * 풍선 터뜨리기
+ * 실3
+ * @author USER
+ *
+ */
 public class Main {
 	static Queue<qLocation> q = new LinkedList<qLocation>();//풍선담을 큐
 	

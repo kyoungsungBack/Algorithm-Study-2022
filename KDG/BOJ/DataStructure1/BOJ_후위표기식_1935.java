@@ -3,6 +3,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
+/**
+ * 후위 표기식2
+ * 실3
+ * @author USER
+ *
+ */
 public class Main {
 	static Stack<Double> st = new Stack<Double>();//연산값 넣을 스택
 	
