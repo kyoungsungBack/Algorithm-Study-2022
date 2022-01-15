@@ -9,8 +9,8 @@ import java.util.TreeSet;
 
 //최대힙_성공
 
-// 0이 아니면 set에 저장
-// 0이면 set의 최대값 출력
+// 0이 아니면 que에 저장
+// 0이면 que의 최대값 출력
 // 	이때, 0이 최대면 입력값 출력
 public class Baekjoon_11279 {
 	public static void main(String[] args) throws IOException {
