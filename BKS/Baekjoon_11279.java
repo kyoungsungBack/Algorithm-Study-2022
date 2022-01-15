@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.TreeSet;
 
-//최대힙
+//최대힙_성공
 
 // 0이 아니면 set에 저장
 // 0이면 set의 최대값 출력
