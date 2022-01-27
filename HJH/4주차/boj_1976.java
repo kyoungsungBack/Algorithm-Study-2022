@@ -78,5 +78,23 @@ public class Main {
 
         br.close();
     }
+ 
+     /* dfs */
+     private static boolean solve(int cur, int to, boolean[] visited){
+        if(cur == to){
+            return true;
+        }
+        
+        visited[cur] = true;
+        
+        for(int adj = 1; adj <= n; adj++){
+            if(map[cur][adj] == 0 || visited[adj]) continue;
+            
+            visited[adj] = true;
+            if(solve(adj, to, visited)) return true;
+        }
+        
+        return false;
+    }
 
 }
