@@ -45,17 +45,12 @@ public class Main {
     private static void solve() {
         PriorityQueue<Node> pq = new PriorityQueue<>();
         pq.add(new Node(start, 0));
-        boolean[] visited = new boolean[vNum + 1];
         dist[start] = 0;
 
         while (!pq.isEmpty()) {
             var cur = pq.poll();
 
-            visited[cur.v] = true;
-
             for (var adj : adjList[cur.v]) {
-                if (visited[adj.v]) continue;
-
                 if (dist[adj.v] > dist[cur.v] + adj.cost) {
                     dist[adj.v] = dist[cur.v] + adj.cost;
                     pq.add(new Node(adj.v, dist[adj.v]));
