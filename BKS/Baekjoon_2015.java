@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.StringTokenizer;
-// 수들의 합4_성공
+// 수들의 합4(map)_성공
 public class Baekjoon_2015 {
 	static int N, K;
 	static int[] nums;
