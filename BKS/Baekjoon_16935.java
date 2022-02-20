@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 // 2. 배열을 좌우 반전시키는 연산
 // 3. 배열값들은 90도 회전시키는 연산
 // 4. 왼쪽으로 90도 회전시키는 연산 
-// 5. 
+//5, 6. 그룹변경
 public class Baekjoon_16935 {
 	static int[][] Map;
 	static int[][] MapCopy;
