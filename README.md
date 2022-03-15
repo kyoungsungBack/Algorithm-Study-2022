@@ -1,7 +1,7 @@
 ## ‼알고리즘 스터디‼
 ***
 ### 스터디 참여자👨‍👨‍👦‍👦
-1. 김동건(KDG) - GitHub URL: https://github.com/DongGeon2
+1. 김동건(KDG) - GitHub URL: https://github.com/DongGeon2<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 2. 백경성(BKS) - GitHub URL: https://github.com/kyoungsungBack
 3. 이태영(LTY) - GitHub URL: https://github.com/epzlfnql
 4. 황지훈(HJH) - 중도하차(사유: 취업)
