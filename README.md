@@ -24,6 +24,7 @@
 + 6주차: 위상정렬, 누적합, 최단거리, 구현
 + 7주차: 최단거리, 백트래킹, 그래프탐색, 구현
 + 8주차: 분할정복, 그래프탐색, 구현
-+ **참고사이트: https://github.com/tony9402/baekjoon** 
++ **참고사이트1: https://github.com/tony9402/baekjoon** 
++ **참고사이트2: https://programmers.co.kr/** 
 
 
