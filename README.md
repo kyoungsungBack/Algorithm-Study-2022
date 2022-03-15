@@ -1,9 +1,9 @@
 ## 알고리즘 스터디
 ***
 ### 스터디 참여자
-1. 김동건 - GitHub URL: https://github.com/DongGeon2?tab=repositories
-2. 백경성 - GitHub URL:
-3. 이태영 - GitHub URL:
+1. 김동건 - GitHub URL: https://github.com/DongGeon2
+2. 백경성 - GitHub URL: https://github.com/kyoungsungBack
+3. 이태영 - GitHub URL: https://github.com/epzlfnql
 4. 황지훈 - 중도하차(사유: 취업)
 5. 구병민 - 중도하차(사유: 취업)
 ***
