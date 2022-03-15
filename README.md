@@ -1,11 +1,13 @@
 ## ‼알고리즘 스터디‼
 ***
 ### 스터디 참여자👨‍👨‍👦‍👦
-1. 김동건 - GitHub URL: https://github.com/DongGeon2
-2. 백경성 - GitHub URL: https://github.com/kyoungsungBack
-3. 이태영 - GitHub URL: https://github.com/epzlfnql
-4. 황지훈 - 중도하차(사유: 취업)
-5. 구병민 - 중도하차(사유: 취업)
+1. 김동건(KDG) - GitHub URL: https://github.com/DongGeon2
+2. 백경성(BKS) - GitHub URL: https://github.com/kyoungsungBack
+3. 이태영(LTY) - GitHub URL: https://github.com/epzlfnql
+4. 황지훈(HJH) - 중도하차(사유: 취업)
+5. 구병민(KBM) - 중도하차(사유: 취업)
+
+**작성한 알고리즘 풀이는 본인 이니셜 폴더에서 확인 가능.**
 ***
 ### 1. 주요목적
 + 기업 코딩테스트 대비 문제 유형 파악 및 알고리즘 사고 능력을 향상시키기 위한 스터디😎
