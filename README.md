@@ -1,6 +1,6 @@
 ## ‼알고리즘 스터디‼
 ***
-### 스터디 참여자
+### 스터디 참여자👨‍👨‍👦‍👦
 1. 김동건 - GitHub URL: https://github.com/DongGeon2
 2. 백경성 - GitHub URL: https://github.com/kyoungsungBack
 3. 이태영 - GitHub URL: https://github.com/epzlfnql
